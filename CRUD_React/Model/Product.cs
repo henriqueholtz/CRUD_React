@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CRUD_React.Model
 {
-    [Table("Product")]
+    [Table("Products")]
     public class Product
     {
         [Column("Id")]
